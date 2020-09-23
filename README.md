@@ -14,4 +14,4 @@ N.B. Per questione di spazio su GitHub viene usato un file 'metadata.csv' di dim
 
 Link alla pagina kaggle.com con il dataset: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
-Link al notebook per l'esecuzione su Colab: 
+Link al notebook per l'esecuzione su Colab: https://colab.research.google.com/github/passerim/CORD-19-KaggleExperiment/blob/master/CORD_19_KaggleExperiment.ipynb
